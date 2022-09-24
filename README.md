@@ -1,2 +1,1 @@
-# ProjectCapstone
-Python Capstone Project
+# Capstone_Project
